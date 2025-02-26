@@ -1,0 +1,6 @@
+numpy
+opencv_python
+pandas
+streamlit
+keras==2.12.0
+tensorflow==2.12.0
